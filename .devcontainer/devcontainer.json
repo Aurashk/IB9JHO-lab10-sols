@@ -1,0 +1,15 @@
+{
+    "name": "IB9JHO Container",
+    "image": "mcr.microsoft.com/devcontainers/cpp",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-vscode.cpptools",
+                "ms-vscode.cmake-tools",
+                "github.classroom",
+                "brobeson.ctest-lab",
+                "GitHub.codespaces"
+            ]
+        }
+    }
+}
